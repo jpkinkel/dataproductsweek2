@@ -1,0 +1,19 @@
+---
+title: "Data Products exercise - week 2"
+output: github_document
+---
+
+```{r setup, include=FALSE, echo=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a page with a leaflet interactive map
+
+
+
+You can include R code in the document as follows:
+
+```{r cars}
+summary(cars)
+```
+
